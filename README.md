@@ -14,3 +14,8 @@ git init
 npm init -y
 npm install bootstrap
 npm install --save-dev lite-server
+
+
+letoltes utan: 
+-npm install
+-npm start
